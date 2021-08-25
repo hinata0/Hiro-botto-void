@@ -21,11 +21,11 @@ export default class Command extends BaseCommand {
 
 
 
-return void M.reply(await request.buffer('https://i.pinimg.com/originals/9a/f4/0a/9af40a579d935b60ace8d9e258508eab.png'),
+return void M.reply(await request.buffer('https://i.pinimg.com/originals/91/c9/8e/91c98e56b4209d223419e73ad4ccc776.jpg'),
 MessageType.image,
             undefined,
             undefined,
-            `*Did you mean : ₹help*`
+            `*Did you mean : ~help*`
 
 
 )
