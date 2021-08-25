@@ -27,7 +27,7 @@ MessageType.image,
             undefined,
             undefined,
             
-            `*Nyanpasu ~~*`
+            `*Nyanpasu ~🖤~*`
             )
 
     }
